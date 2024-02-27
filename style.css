@@ -60,11 +60,16 @@
   }
   
   /* Fake image */
-  .fakeimg {
+ .fakeimg {
     background-color: #aaa;
     width: 100%;
     padding: 20px;
   }
+
+  .fakeimg a {
+    padding: 10px;
+  }
+
   
   /* Add a card effect for articles */
   .card {
